@@ -3,21 +3,24 @@
 we have made the infrastructure of Patrol Organization petroMasr and we make local servers as on premsis then we deployed our servers into AWS just in topology
 we have worked on Netowrk Topolgy Configurations and virtualized the Processes into Virtual box to turn into this workgroup network to doamin sharing data and Resources and mirroring these all in web-based system 
 that deals with intranet and extranet and stakeholders adn provide to many services emaulting a proffisnal Infrastructure mathes redunduncy , availbility , scalability and flexibilit Princples.
-
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+# Download the Microsoft Visio Topology Schema
+[https://mega.nz/file/nZUBybDB#Lw5awqE2KqOOz-KifOdvP0-ApLivvJ3qluMMCYkKSd4](https://mega.nz/file/WUUDjTpD#kGeUW1KWDXJBMJUsTSjnHeSk3eKOdPRhjz5cKcweEZA)
+
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 # Download the Final Representation without the website
-https://mega.nz/file/nZUBybDB#Lw5awqE2KqOOz-KifOdvP0-ApLivvJ3qluMMCYkKSd4
+[https://mega.nz/file/nZUBybDB#Lw5awqE2KqOOz-KifOdvP0-ApLivvJ3qluMMCYkKSd4](https://mega.nz/file/nZUBybDB#Lw5awqE2KqOOz-KifOdvP0-ApLivvJ3qluMMCYkKSd4)
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 # Download the webiste snapshots ( not organized well just in pdf )
-https://mega.nz/file/ic8wXZgR#XiJk3Y7-nIBAaRQ9JcVea3-w0rgSk7JSTyxdO-urIro
-
+[https://mega.nz/file/ic8wXZgR#XiJk3Y7-nIBAaRQ9JcVea3-w0rgSk7JSTyxdO-urIro](https://mega.nz/file/ic8wXZgR#XiJk3Y7-nIBAaRQ9JcVea3-w0rgSk7JSTyxdO-urIro)
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 # the whole website UI / UX , with demo accounts 
-https://www.figma.com/make/qAkREo7TXnG7UdXfF84Q1d/Patrolem-Organization-Dashboard?node-id=0-1&t=IBaKOEVSOFsdRUTf-1
+[https://www.figma.com/make/qAkREo7TXnG7UdXfF84Q1d/Patrolem-Organization-Dashboard?node-id=0-1&t=IBaKOEVSOFsdRUTf-1](https://www.figma.com/make/qAkREo7TXnG7UdXfF84Q1d/Patrolem-Organization-Dashboard?node-id=0-1&t=iklHcM0WhoBRejMQ-1)
 
 'superadmin@petromasr.com': {
     email: 'superadmin@petromasr.com',
@@ -116,7 +119,7 @@ ________________________________________________________________________________
 
 
     # the whole website React Frontend & PHP Laravel Back-end , with demo accounts
-    https://mega.nz/folder/2FlQjYaD#2pe63U5iY5viBPLU4rrpMw
+    [https://mega.nz/folder/2FlQjYaD#2pe63U5iY5viBPLU4rrpMw](https://mega.nz/folder/2FlQjYaD#2pe63U5iY5viBPLU4rrpMw)
     
     'superadmin@petromasr.com': {
     email: 'superadmin@petromasr.com',
