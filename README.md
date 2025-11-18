@@ -1,6 +1,6 @@
 # DEPI-Graduation-Project-Team-D-PetroMasr
 
-we have made the infrastructure of Patrol Organization petroMasr and we make local servers as on premsis then we deployed our servers into AWS just in topology
+we have made the infrastructure of Patrol Organization petroMasr and we make local servers as on premsis then we deployed our Web-server into AWS just in topology
 we have worked on Netowrk Topolgy Configurations and virtualized the Processes into Virtual box to turn into this workgroup network to doamin sharing data and Resources and mirroring these all in web-based system 
 that deals with intranet and extranet and stakeholders adn provide to many services emaulting a proffisnal Infrastructure mathes redunduncy , availbility , scalability and flexibilit Princples.
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
