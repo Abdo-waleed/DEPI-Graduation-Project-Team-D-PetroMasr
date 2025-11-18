@@ -1,5 +1,11 @@
 # DEPI-Graduation-Project-Team-D-PetroMasr
 
+we have made the infrastructure of Patrol Organization petroMasr and we make local servers as on premsis then we deployed our servers into AWZ just in topology
+we have worked on Netowrk Topolgy Configurations and virtualized the Processes into Virtual box to turn into this workgroup network to doamin sharing data and Resources and mirroring these all in web-based system 
+that deals with intranet and extranet and stakeholders adn provide to many services emaulting a proffisnal Infrastructure mathes redunduncy , availbility , scalability and flexibilit Princples.
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 # Download the Final Representation without the website
 https://mega.nz/file/nZUBybDB#Lw5awqE2KqOOz-KifOdvP0-ApLivvJ3qluMMCYkKSd4
 
