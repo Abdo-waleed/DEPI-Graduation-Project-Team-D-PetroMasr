@@ -1,17 +1,18 @@
 # DEPI-Graduation-Project-Team-D-PetroMasr
 
-#the Final Representation without the website
+# Download the Final Representation without the website
 https://mega.nz/file/nZUBybDB#Lw5awqE2KqOOz-KifOdvP0-ApLivvJ3qluMMCYkKSd4
 
-___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-#the webiste snapshots as pdf ( not organized well just in pdf )
+# Download the webiste snapshots as pdf ( not organized well just in pdf )
 https://mega.nz/file/ic8wXZgR#XiJk3Y7-nIBAaRQ9JcVea3-w0rgSk7JSTyxdO-urIro
 
-___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-#the whole website UI / UX , with demo accounts 
+# the whole website UI / UX , with demo accounts 
 https://www.figma.com/make/qAkREo7TXnG7UdXfF84Q1d/Patrolem-Organization-Dashboard?node-id=0-1&t=IBaKOEVSOFsdRUTf-1
+
 'superadmin@petromasr.com': {
     email: 'superadmin@petromasr.com',
     password: 'admin@2025',
@@ -108,8 +109,9 @@ https://www.figma.com/make/qAkREo7TXnG7UdXfF84Q1d/Patrolem-Organization-Dashboar
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
-    #the whole website React Frontend & PHP Laravel Back-end , with demo accounts
+    # the whole website React Frontend & PHP Laravel Back-end , with demo accounts
     https://mega.nz/folder/2FlQjYaD#2pe63U5iY5viBPLU4rrpMw
+    
     'superadmin@petromasr.com': {
     email: 'superadmin@petromasr.com',
     password: 'admin@2025',
