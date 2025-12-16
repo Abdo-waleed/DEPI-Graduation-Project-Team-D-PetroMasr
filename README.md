@@ -33,7 +33,7 @@ ________________________________________________________________________________
 
 Credentials
 
-  'admin@costation.com':
+ 
   {
     email: 'admin@costation.com',
     password: 'demo123',
@@ -42,7 +42,7 @@ Credentials
     companyName: 'CO-Station Brand',
   }
 
-  'employee@petromasr.com': 
+   
   {
     email: 'employee@petromasr.com',
     password: 'demo123',
@@ -51,7 +51,7 @@ Credentials
     companyName: 'PetroMasr',
   }
   
-  'investor@funds.com': 
+ 
   {
     email: 'investor@funds.com',
     password: 'demo123',
@@ -60,7 +60,7 @@ Credentials
     companyName: 'Investment Partners',
   }
   
-  'noc@petromasr.com': 
+  
   {
     email: 'noc@petromasr.com',
     password: 'demo123',
@@ -69,7 +69,7 @@ Credentials
     companyName: 'PetroMasr - NOC',
   }
   
-  'soc@petromasr.com': 
+ 
   {
     email: 'soc@petromasr.com',
     password: 'demo123',
@@ -78,7 +78,7 @@ Credentials
     companyName: 'PetroMasr - SOC',
   }
   
-  'sysadmin@petromasr.com': 
+  
   {
     email: 'sysadmin@petromasr.com',
     password: 'demo123',
@@ -87,7 +87,7 @@ Credentials
     companyName: 'PetroMasr - IT',
   }
   
-  'dba@petromasr.com': 
+ 
   {
     email: 'dba@petromasr.com',
     password: 'demo123',
@@ -96,14 +96,13 @@ Credentials
     companyName: 'PetroMasr - Database',
   }
   
-  'financemgr@petromasr.com':
   {
     email: 'financemgr@petromasr.com',
     password: 'demo123',
     name: 'Finance Manager',
     role: 'finance',
     companyName: 'PetroMasr - Finance',
-
+ }
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
     
