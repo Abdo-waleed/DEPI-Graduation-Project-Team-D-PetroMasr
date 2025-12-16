@@ -3,6 +3,8 @@
 we have made the infrastructure of Patrol Organization petroMasr and we make local servers as on premsis then we deployed our Web-server into AWS just in topology
 we have worked on Netowrk Topolgy Configurations and virtualized the Processes into Virtual box to turn into this workgroup network to doamin sharing data and Resources and mirroring these all in web-based system 
 that deals with intranet and extranet and stakeholders adn provide to many services emaulting a proffisnal Infrastructure mathes redunduncy , availbility , scalability and flexibilit Princples.
+The Full Explain of the project
+https://drive.google.com/file/d/12siYSAqpb3QIfg5KJFR6_4_IM2Xf__YC/view?usp=drive_link
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ___________________________________
